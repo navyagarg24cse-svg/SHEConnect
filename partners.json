@@ -1,0 +1,24 @@
+{
+  "partners": [
+    {
+      "name": "UN Women",
+      "logo": "images/unwomen.png",
+      "description": "Supporting gender equality and entrepreneurship programs."
+    },
+    {
+      "name": "Startup India",
+      "logo": "images/startupindia.png",
+      "description": "Encouraging women-led startups and innovation."
+    },
+    {
+      "name": "FICCI FLO",
+      "logo": "images/ficci.png",
+      "description": "Partnering for women empowerment initiatives."
+    },
+    {
+      "name": "Women In Tech",
+      "logo": "images/womenintech.png",
+      "description": "Promoting women in technology and business leadership."
+    }
+  ]
+}

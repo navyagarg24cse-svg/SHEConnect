@@ -1,0 +1,22 @@
+{
+  "workshops": [
+    {
+      "title": "Digital Marketing Bootcamp",
+      "date": "2025-11-05",
+      "location": "Delhi",
+      "description": "Learn how to market your business online using social media and ads."
+    },
+    {
+      "title": "Financial Literacy for Women Entrepreneurs",
+      "date": "2025-11-12",
+      "location": "Mumbai",
+      "description": "Understand business finance, budgeting, and investment basics."
+    },
+    {
+      "title": "E-Commerce Masterclass",
+      "date": "2025-11-20",
+      "location": "Bangalore",
+      "description": "Build and scale your online business on popular e-commerce platforms."
+    }
+  ]
+}
